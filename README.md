@@ -8,7 +8,7 @@ As reflected by most of my projects I ❤️ AI! I strongly believe it's going t
 <ul>
   <li>Python</li>
   <li>Java</li>
-  <li>HTML, CSS, <strong>JavaScript</strong></li> [![My Skills](https://skillicons.dev/icons?i=html,CSS,js)](https://skillicons.dev)
+  <li>HTML, CSS, <strong>JavaScript</strong></li> [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
   <li>SQL</li>
 </ul>
 <h3>AI and Data Science</h3>
