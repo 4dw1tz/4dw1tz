@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm currently studying Computer Science at the University of Birmingham.
-More accurately, I'm undertaking a degree apprenticeship so in addition to University, I'm also a Technology Solutions Apprentice at PwC UK.<br>
-As reflected by most of my projects I ❤️ AI! I strongly believe it's going to impact humanity more than anything in the past has and am always keen to build and collaborate on AI projects.
+More accurately, I'm undertaking a degree apprenticeship so in addition to University, I'm also a Technology Solutions Apprentice at PwC UK. <br><br>
+As reflected by most of my projects I ❤️ AI <br> I strongly believe it's going to impact humanity more than anything in the past has and am always keen to build and collaborate on AI projects.
 
 <h1>My Skills and Strengths</h1>
 <h3>Languages</h3>
