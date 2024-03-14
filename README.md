@@ -23,6 +23,8 @@ As reflected by most of my projects I ❤️ AI <br> I strongly believe it's goi
 <h3>Tech Stacks</h3>
 <ul>
   <li>MongoDB/ Mongoose</li>
+  <li>DataGrip</li>
+  <li>PostgreSQL & Plpgsql</li>
   <li>Express.js</li>
   <li>Node.js</li>
   <li>Google Cloud APIs</li>
