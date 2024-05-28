@@ -29,6 +29,8 @@ As reflected by most of my projects I ❤️ AI <br> I strongly believe it's goi
   <li>PostgreSQL & Plpgsql</li>
   <li>Express.js</li>
   <li>Node.js</li>
+  <li>React</li>
+  <li>Vercel</li>
   <li>Google Cloud APIs</li>
   <li>JavaFX</li>
   <li>PyGame and Tkinter</li>
