@@ -19,6 +19,8 @@ As reflected by most of my projects I ❤️ AI <br> I strongly believe it's goi
   <li>Matplotlib</li>
   <li>Weka</li>
   <li>NumPy</li>
+  <li>OpenAI API for chat completions and DAL E</li>
+  <li>Prompt Engineering</li>
 </ul>
 <h3>Tech Stacks</h3>
 <ul>
